@@ -1,5 +1,7 @@
 # Zaliczenie-przedmiotu:
 
+# Dawid Zalewski numer legitymacji: 13022
+
 ## I. Wprowadzenie
 Repozytorium zawiera pliki z zajęć "Narzędzia procesu tworzenia programowania" oraz grę.
 
