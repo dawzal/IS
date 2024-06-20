@@ -1,23 +1,28 @@
-Zaliczenie-przedmiotu
-I. Repozytorium zawiera pliki z zajęć "Narzędzia procesu tworzenia programowania" oraz grę.
+# Zaliczenie-przedmiotu:
 
-II. Struktóra repozytorium
-Pliki z zajęć
-Aplikację
-Plik README
+## I. Wprowadzenie
+Repozytorium zawiera pliki z zajęć "Narzędzia procesu tworzenia programowania" oraz grę.
 
-III. Aplikacja:
-Orzeł/Reszka
+## II. Struktóra repozytorium
+- Pliki z zajęć
+- Aplikację
+- Plik README
 
-IV. Uruchamianie aplikacji:
-Wymagania:
+## III. Aplikacja:
+- Orzeł/Reszka
+
+## IV. Uruchamianie aplikacji:
+- Wymagania:
+  
 Komputer z systemem Windows,
 Środowisko obsługujące c#
-Postępowanie
+- Postępowanie:
+  
 Skopiuj kod gry z folderu "Aplikacja",
 Wklej kod do edytora tekstu lub bezpośrednio do środowiska,
 "Uruchom" kod
-Jak grać:
+- Jak grać:
+  
 Po uruchomieniu należy wpisać orzeł lub reszka
 Nastepnie należy wcisnąć enter
 Po tych czynnościach gra pokaże nam czy wygraliśmy czy nie
